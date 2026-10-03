@@ -6,17 +6,17 @@
 
 - 🎓 What I Study: Pursuing a Bachelor of Technology (B.Tech) in Information Technology.
 - 💻 Current Focus: Building strong programming fundamentals and improving my problem-solving skills.
-- 🚀 Currently Learning: C programming, Python, Git & GitHub, and computational thinking.
-- 🧩 Academic Interests: Programming, problem solving, software development and emerging technologies.
-- 🌱 Goal: To continuously learn, build projects and develop practical skills throughout my college journey.
-- 🎯 Fun Fact: I enjoy exploring new things, experimenting with ideas and learning by doing.
+- 🌱 Currently Learning: C programming, Python, Git & GitHub, and computational thinking.
+- 🧩 Interests: Software development, problem solving, technology and learning new skills.
+- 🚀 Goal: To gain practical experience through coding, projects and continuous learning.
+- ✨ Fun Fact: I enjoy learning by experimenting and trying out new ideas.
 
 ## 🛠️ Tech Stack & Tools
 
 | Domain | Technologies & Tools |
 |---|---|
 | Languages | C, Python |
-| Problem Solving | Computational Thinking, Basic Algorithms |
+| Problem Solving | Algorithms, Computational Thinking |
 | Tools | Git, GitHub, VS Code |
 | Platforms | LeetCode |
 | Currently Exploring | Software Development & Projects |
@@ -24,30 +24,43 @@
 ## 📌 Featured Repositories
 
 ### 💻 C Programming Foundations
-My collection of C programming exercises and practice programs.
+A collection of my C programming practice and academic exercises.
 
-- Basic programming concepts
-- Variables, data types & operators
+- Variables, data types and operators
 - Conditional statements and loops
-- Problem-solving exercises
+- Basic problem solving
+- Programming exercises
 
 ### 🧠 Computational Thinking
-Academic work and exercises focused on understanding problems and developing logical solutions.
+Academic exercises focused on breaking down problems and developing logical solutions.
 
 - Problem decomposition
-- Algorithms and pseudocode
-- Pattern-based problem solving
-- Real-world problem solutions
+- Algorithms
+- Pseudocode
+- Pattern problem solving
 
-### 🚦 IoT Smart Traffic Light System
-An academic project exploring how technology can be used to create a smart traffic management system.
+## 🗺️ Career Roadmap
 
----
+- 🟢 [done] Started my B.Tech journey in Information Technology.
+- 🔵 [in progress] Strengthen my C programming and problem-solving fundamentals.
+- 🔵 [in progress] Learn Python and improve my coding skills.
+- 🎯 [goal] Build small practical projects and participate in coding activities.
+- 🎯 [goal] Explore different areas of software development.
+- 🚀 [long-term] Develop strong technical skills and prepare for a career in the IT industry.
 
-## 🌱 Currently Learning
+## 🏆 Certifications & Achievements
 
-C Programming • Python • Git & GitHub • Problem Solving • Algorithms
+- 🎓 First-Year B.Tech IT Student
+- 📚 Currently building foundational programming and problem-solving skills.
+- 🚀 Working towards developing practical projects and technical experience.
 
-## 🎯 My Goal
+## 📊 GitHub Activity & Metrics
 
-To build a strong foundation in programming, gain practical experience through projects, and grow into a skilled software developer.
+More projects and contributions coming as I continue my learning journey.
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/deshna-b-1919b343a]
+- 💻 GitHub:[https://github.com/DeshnaBuilds]
+
+I'm always interested in learning, exploring technology and connecting with fellow students and developers.
